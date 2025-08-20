@@ -1,12 +1,11 @@
 
 
 let bmi = null;
-let height = 172;
-let weight = 72;
+let height = 1.7;
+let weight = 68;
 
 function bmiCalc() {
-    let heightMeter = height / 100;
-    let bmi = weight / (heightMeter * heightMeter);
+    let bmi = weight / (height * height);
     console.log(bmi);
     return bmi;
 }
