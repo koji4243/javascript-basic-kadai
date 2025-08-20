@@ -1,6 +1,6 @@
 
 
-
+let bmi;
 let height;
 let weight;
 
