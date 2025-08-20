@@ -1,6 +1,6 @@
 
 
-let bmi = 55;
+let bmi = null;
 let height = 172;
 let weight = 72;
 
